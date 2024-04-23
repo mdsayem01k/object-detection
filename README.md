@@ -1,5 +1,14 @@
 # object-detection
 
+## Workflow:
+-   constant
+-   config_entity
+-   artifact_entity
+-   components
+-   pipeline
+-   app.py
+
+
 ## How to run :
 
 ```bash
